@@ -14,24 +14,24 @@ Welcome to my GitHub profile! I'm passionate about software development and buil
 Here are some of the projects I've been working on:
 
 - [Project 1](https://65d5de8027a8aa92cf901b30--deft-gnome-548a17.netlify.app): Rems(Real State Modern Solutions).
-- [Project 2](link-to-project-2): Job board.
-- [Project 3](link-to-project-3): Quiz Player.
+- [Project 2](https://superlative-concha-1342a4.netlify.app/): Job board.
+- [Project 3](https://creative-dieffenbachia-9603fb.netlify.app/): Quiz Player.
 
 ## Technologies
 
 I enjoy working with a variety of technologies and tools including:
 
-- Languages: JavaScript, Python, Java
+- Languages: Javascript, C++
 - Frontend: HTML, CSS, JavaScript, React.js
 - Backend: Node.js, Express.js, Flask
-- Databases: MongoDB, MySQL, PostgreSQL
-- Tools & Others: Git, Docker, AWS
+- Databases: MongoDB, MySQL
+- Tools & Others: Git
 
 ## Connect with Me
 
 Feel free to connect with me on LinkedIn or Twitter:
 
-- [LinkedIn](https://www.linkedin.com/in/mohdsahilmansoori/)
+- [LinkedIn](www.linkedin.com/in/mohd-sahil-b01095174)
 - [Twitter](https://twitter.com/mohdsahil_dev)
 
 ## Let's Collaborate
