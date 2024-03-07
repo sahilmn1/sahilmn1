@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about software development and buil
 
 You can download my resume by clicking the link below:
 
-[Download Resume](https://drive.google.com/uc?export=download&id=12RXNrBtLJZjmPG4XYIkrlZkelqNsyD3N)
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-Click%20Here-blue?style=for-the-badge&logo=github)](https://drive.google.com/uc?export=download&id=12RXNrBtLJZjmPG4XYIkrlZkelqNsyD3N)
 ## About Me
 
 - 🎓 Computer Science graduate
