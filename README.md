@@ -1,7 +1,11 @@
 # Hello, I'm Mohd Sahil Mansoori! 👋
 
 Welcome to my GitHub profile! I'm passionate about software development and building cool stuff. Here you'll find some of my projects, contributions, and interests.
+## Resume
 
+You can download my resume by clicking the link below:
+
+[Download Resume](https://drive.google.com/uc?export=download&id=12RXNrBtLJZjmPG4XYIkrlZkelqNsyD3N)
 ## About Me
 
 - 🎓 Computer Science graduate
